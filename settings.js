@@ -12,22 +12,22 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "224664873993"
-global.ownername = "𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪"
+global.ownername = "𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪"
 global.ytname = "YT: labo.tech"
 global.socialm = "GitHub: Seckjr"
 global.location = "Guinée, Conakry"
 
-global.ownernumber = '224664873993'  //creator number
-global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪' //owner name
+global.ownernumber = '224628894638'  //creator number
+global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪' //owner name
 global.botname = 'BUG BOT KIRA' //name of the bot
 
 //sticker details
-global.packname = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪'
-global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪'
+global.packname = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪'
+global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪'
 
 //console view/theme
 global.themeemoji = '🥱'
-global.wm = "SECKLIGHTYAGAMI in©"
+global.wm = "SECKGOJO in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
