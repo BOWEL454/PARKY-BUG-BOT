@@ -11,11 +11,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
-global.ytname = "YT: Jean-parker-tech"
-global.socialm = "GitHub: Jeanparker100"
-global.location = "Togo, maritime, Lomé"
+global.ownernomer = "224664873993"
+global.ownername = "𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪"
+global.ytname = "YT: labo.tech"
+global.socialm = "GitHub: Seckjr"
+global.location = "Guinée, Conakry"
 
 global.ownernumber = '224664873993'  //creator number
 global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪' //owner name
@@ -27,7 +27,7 @@ global.author = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆�
 
 //console view/theme
 global.themeemoji = '🥱'
-global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
+global.wm = "SECKLIGHTYAGAMI in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
