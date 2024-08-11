@@ -11,23 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
-global.ytname = "YT: Jean-parker-tech"
+global.ownernomer = "224628894638"
+global.ownername = "~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪"
+global.ytname = " busi-tech"
 global.socialm = "GitHub: Jeanparker100"
-global.location = "Togo, maritime, Lomé"
+global.location = "Guinea Conakry"
 
-global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
-global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '224628894638'  //creator number
+global.ownername = '~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪' //owner name
+global.botname = '𓆩꧁𝙱𝚄𝙶-𝙱𝙾𝚃~𝐆𝐎𝐉𝐎꧂𓆪' //name of the bot
 
 //sticker details
-global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.packname = '𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪'
+global.author = '𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐆𝐎𝐉𝐎꧂𓆪'
 
 //console view/theme
-global.themeemoji = '🩵'
-global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
+global.themeemoji = '😈'
+global.wm = "SECKGOJO in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
